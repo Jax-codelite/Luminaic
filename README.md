@@ -5,7 +5,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
-[![Version](https://img.shields.io/badge/version-0.1.0-alpha-orange.svg)]()
+[![Version](https://img.shields.io/badge/version-0.0.0.0--alpha-orange.svg)]()
 
 ---
 
